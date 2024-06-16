@@ -1,0 +1,13 @@
+{
+  "name": "Frontend-Development-Environment",
+  "version": "1.0.0",
+  "packageManager": "yarn@4.3.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"여기에 빌드 스크립트를 추가합니다.\"",
+    "start": "echo \"여기에 스타트 스크립트를 추가합니다.\""
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -6,7 +6,7 @@ module.exports = {
     main: './src/app.js'
   },
   output: {
-    path: path.resolve('./dist'),
+    path: path.resolve('dist'),
     filename: '[name].js'
   },
   module: {
@@ -15,7 +15,22 @@ module.exports = {
         test: /\.js$/,
         use: [
           path.resolve('./my-webpack-loader.js')
-        ]
+        ],
+      },
+      {
+        test: /\.css$/,
+        use: [
+          'style-loader',
+          'css-loader'
+        ],
+      },
+      {
+        test: /\.png$/,
+        type: 'asset/resource',
+        generator: {
+          filename: 'assets/[name].[hash][ext]',
+          publicPath: './dist/',
+        },
       }
     ]
   }

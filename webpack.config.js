@@ -1,4 +1,5 @@
 const path = require('path');
+const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
 module.exports = {
   mode: 'development',
@@ -26,12 +27,19 @@ module.exports = {
       },
       {
         test: /\.png$/,
-        type: 'asset/resource',
-        generator: {
-          filename: 'assets/[name].[hash][ext]',
-          publicPath: './dist/',
-        },
-      }
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              publicPath: './dist/',
+              name: '[name].[ext]' //?[hash]
+            },
+          },
+        ],
+      },
     ]
-  }
+  },
+  plugins: [
+    new CleanWebpackPlugin(), // 빌드 전에 dist 폴더를 정리합니다.
+  ],
 }

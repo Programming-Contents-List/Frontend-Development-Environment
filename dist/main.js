@@ -16,7 +16,7 @@
   \*******************************************************************************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../.yarn/__virtual__/css-loader-virtual-16d7c22a15/0/cache/css-loader-npm-6.11.0-d945f9f4c0-bb52434138.zip/node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./.yarn/__virtual__/css-loader-virtual-16d7c22a15/0/cache/css-loader-npm-6.11.0-d945f9f4c0-bb52434138.zip/node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../.yarn/__virtual__/css-loader-virtual-16d7c22a15/0/cache/css-loader-npm-6.11.0-d945f9f4c0-bb52434138.zip/node_modules/css-loader/dist/runtime/api.js */ \"./.yarn/__virtual__/css-loader-virtual-16d7c22a15/0/cache/css-loader-npm-6.11.0-d945f9f4c0-bb52434138.zip/node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../.yarn/__virtual__/css-loader-virtual-16d7c22a15/0/cache/css-loader-npm-6.11.0-d945f9f4c0-bb52434138.zip/node_modules/css-loader/dist/runtime/getUrl.js */ \"./.yarn/__virtual__/css-loader-virtual-16d7c22a15/0/cache/css-loader-npm-6.11.0-d945f9f4c0-bb52434138.zip/node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! git-logo-icon.png */ \"./src/git-logo-icon.png\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, `body {\r\n  /* background-color: green; */\r\n  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_0___});\r\n}`, \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://Frontend-Development-Environment/./src/app.css?./.yarn/__virtual__/css-loader-virtual-16d7c22a15/0/cache/css-loader-npm-6.11.0-d945f9f4c0-bb52434138.zip/node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../.yarn/__virtual__/css-loader-virtual-16d7c22a15/0/cache/css-loader-npm-6.11.0-d945f9f4c0-bb52434138.zip/node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./.yarn/__virtual__/css-loader-virtual-16d7c22a15/0/cache/css-loader-npm-6.11.0-d945f9f4c0-bb52434138.zip/node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../.yarn/__virtual__/css-loader-virtual-16d7c22a15/0/cache/css-loader-npm-6.11.0-d945f9f4c0-bb52434138.zip/node_modules/css-loader/dist/runtime/api.js */ \"./.yarn/__virtual__/css-loader-virtual-16d7c22a15/0/cache/css-loader-npm-6.11.0-d945f9f4c0-bb52434138.zip/node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../.yarn/__virtual__/css-loader-virtual-16d7c22a15/0/cache/css-loader-npm-6.11.0-d945f9f4c0-bb52434138.zip/node_modules/css-loader/dist/runtime/getUrl.js */ \"./.yarn/__virtual__/css-loader-virtual-16d7c22a15/0/cache/css-loader-npm-6.11.0-d945f9f4c0-bb52434138.zip/node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! scope.png */ \"./src/scope.png\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _yarn_virtual_css_loader_virtual_16d7c22a15_0_cache_css_loader_npm_6_11_0_d945f9f4c0_bb52434138_zip_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, `body {\r\n  /* background-color: green; */\r\n  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_0___});\r\n}`, \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://Frontend-Development-Environment/./src/app.css?./.yarn/__virtual__/css-loader-virtual-16d7c22a15/0/cache/css-loader-npm-6.11.0-d945f9f4c0-bb52434138.zip/node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -126,7 +126,7 @@ eval("\n\nmodule.exports = function (i) {\n  return i[1];\n};\n\n//# sourceURL=w
   \********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _math_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./math.js */ \"./src/math.js\");\n/* harmony import */ var _app_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./app.css */ \"./src/app.css\");\n\r\n\r\n// import { sum } from './math.js';\r\nalert(_math_js__WEBPACK_IMPORTED_MODULE_0__.sum(1, 2));\r\n// console.log(sum(1,2));\n\n//# sourceURL=webpack://Frontend-Development-Environment/./src/app.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _math_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./math.js */ \"./src/math.js\");\n/* harmony import */ var _app_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./app.css */ \"./src/app.css\");\n\r\n\r\n// import npmIcon from './npm-icon.png';\r\n// import { sum } from './math.js';\r\nalert(_math_js__WEBPACK_IMPORTED_MODULE_0__.sum(1, 2));\r\n// console.log(sum(1,2));\r\n\r\n// document.addEventListener('DOMContentLoaded', () => {\r\n//   document.body.innerHTML = `<img src=\"${npmIcon}\"/>`\r\n// });\n\n//# sourceURL=webpack://Frontend-Development-Environment/./src/app.js?");
 
 /***/ }),
 
@@ -140,13 +140,13 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
-/***/ "./src/git-logo-icon.png":
-/*!*******************************!*\
-  !*** ./src/git-logo-icon.png ***!
-  \*******************************/
-/***/ ((module) => {
+/***/ "./src/scope.png":
+/*!***********************!*\
+  !*** ./src/scope.png ***!
+  \***********************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = \"./dist/assets/git-logo-icon.e6cb70b6c44cc2e8835a.png\";\n\n//# sourceURL=webpack://Frontend-Development-Environment/./src/git-logo-icon.png?");
+eval("module.exports = __webpack_require__.p + \"c2fe099d8a5470e7e388.png\";\n\n//# sourceURL=webpack://Frontend-Development-Environment/./src/scope.png?");
 
 /***/ })
 
@@ -204,6 +204,18 @@ eval("module.exports = \"./dist/assets/git-logo-icon.e6cb70b6c44cc2e8835a.png\";
 /******/ 		};
 /******/ 	})();
 /******/ 	
+/******/ 	/* webpack/runtime/global */
+/******/ 	(() => {
+/******/ 		__webpack_require__.g = (function() {
+/******/ 			if (typeof globalThis === 'object') return globalThis;
+/******/ 			try {
+/******/ 				return this || new Function('return this')();
+/******/ 			} catch (e) {
+/******/ 				if (typeof window === 'object') return window;
+/******/ 			}
+/******/ 		})();
+/******/ 	})();
+/******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
 /******/ 	(() => {
 /******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
@@ -218,6 +230,29 @@ eval("module.exports = \"./dist/assets/git-logo-icon.e6cb70b6c44cc2e8835a.png\";
 /******/ 			}
 /******/ 			Object.defineProperty(exports, '__esModule', { value: true });
 /******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/publicPath */
+/******/ 	(() => {
+/******/ 		var scriptUrl;
+/******/ 		if (__webpack_require__.g.importScripts) scriptUrl = __webpack_require__.g.location + "";
+/******/ 		var document = __webpack_require__.g.document;
+/******/ 		if (!scriptUrl && document) {
+/******/ 			if (document.currentScript)
+/******/ 				scriptUrl = document.currentScript.src;
+/******/ 			if (!scriptUrl) {
+/******/ 				var scripts = document.getElementsByTagName("script");
+/******/ 				if(scripts.length) {
+/******/ 					var i = scripts.length - 1;
+/******/ 					while (i > -1 && (!scriptUrl || !/^http(s?):/.test(scriptUrl))) scriptUrl = scripts[i--].src;
+/******/ 				}
+/******/ 			}
+/******/ 		}
+/******/ 		// When supporting browsers where an automatic publicPath is not supported you must specify an output.publicPath manually via configuration
+/******/ 		// or pass an empty string ("") and set the __webpack_public_path__ variable from your code to use your own logic.
+/******/ 		if (!scriptUrl) throw new Error("Automatic publicPath is not supported in this browser");
+/******/ 		scriptUrl = scriptUrl.replace(/#.*$/, "").replace(/\?.*$/, "").replace(/\/[^\/]+$/, "/");
+/******/ 		__webpack_require__.p = scriptUrl;
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */

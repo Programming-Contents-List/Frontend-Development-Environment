@@ -1,4 +1,5 @@
 const path = require('path');
+const MyWebpackPlugin = require('./my-webpack-plugin')
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
 module.exports = {
@@ -7,7 +8,7 @@ module.exports = {
     main: './src/app.js'
   },
   output: {
-    path: path.resolve('dist'),
+    path: path.resolve(__dirname, 'dist'),
     filename: '[name].js'
   },
   module: {
@@ -41,5 +42,6 @@ module.exports = {
   },
   plugins: [
     new CleanWebpackPlugin(), // 빌드 전에 dist 폴더를 정리합니다.
+    new MyWebpackPlugin(),
   ],
 }

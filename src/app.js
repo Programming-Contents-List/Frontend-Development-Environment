@@ -8,3 +8,6 @@ console.log(math.sum(1, 2));
 // document.addEventListener('DOMContentLoaded', () => {
 //   document.body.innerHTML = `<img src="${npmIcon}"/>`
 // });
+
+console.log(process.env.NODE_ENV);
+console.log(api.domain);

@@ -1,3 +1,4 @@
+const alert = msg => window.alert(msg);
 import * as math from './math.js';
 import './app.css';
 // import npmIcon from './npm-icon.png';

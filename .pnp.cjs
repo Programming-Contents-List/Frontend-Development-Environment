@@ -28,6 +28,9 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@babel/cli", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:7.24.8"],\
           ["@babel/core", "npm:7.25.2"],\
+          ["@babel/plugin-transform-arrow-functions", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:7.24.7"],\
+          ["@babel/plugin-transform-block-scoping", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:7.25.0"],\
+          ["@babel/plugin-transform-strict-mode", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:7.24.7"],\
           ["clean-webpack-plugin", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:4.0.0"],\
           ["css-loader", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:6.11.0"],\
           ["file-loader", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:6.2.0"],\
@@ -191,6 +194,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["@babel/helper-plugin-utils", [\
+      ["npm:7.24.8", {\
+        "packageLocation": "./.yarn/cache/@babel-helper-plugin-utils-npm-7.24.8-a288f101a7-0376037f94.zip/node_modules/@babel/helper-plugin-utils/",\
+        "packageDependencies": [\
+          ["@babel/helper-plugin-utils", "npm:7.24.8"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["@babel/helper-simple-access", [\
       ["npm:7.24.7", {\
         "packageLocation": "./.yarn/cache/@babel-helper-simple-access-npm-7.24.7-beddd00b0e-7230e419d5.zip/node_modules/@babel/helper-simple-access/",\
@@ -259,6 +271,75 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@babel/parser", "npm:7.25.4"],\
           ["@babel/types", "npm:7.25.4"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@babel/plugin-transform-arrow-functions", [\
+      ["npm:7.24.7", {\
+        "packageLocation": "./.yarn/cache/@babel-plugin-transform-arrow-functions-npm-7.24.7-dc9654ba4f-6ac05a54e5.zip/node_modules/@babel/plugin-transform-arrow-functions/",\
+        "packageDependencies": [\
+          ["@babel/plugin-transform-arrow-functions", "npm:7.24.7"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:7.24.7", {\
+        "packageLocation": "./.yarn/__virtual__/@babel-plugin-transform-arrow-functions-virtual-c798698204/0/cache/@babel-plugin-transform-arrow-functions-npm-7.24.7-dc9654ba4f-6ac05a54e5.zip/node_modules/@babel/plugin-transform-arrow-functions/",\
+        "packageDependencies": [\
+          ["@babel/plugin-transform-arrow-functions", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:7.24.7"],\
+          ["@babel/core", "npm:7.25.2"],\
+          ["@babel/helper-plugin-utils", "npm:7.24.8"],\
+          ["@types/babel__core", null]\
+        ],\
+        "packagePeers": [\
+          "@babel/core",\
+          "@types/babel__core"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@babel/plugin-transform-block-scoping", [\
+      ["npm:7.25.0", {\
+        "packageLocation": "./.yarn/cache/@babel-plugin-transform-block-scoping-npm-7.25.0-3cb78e0e8f-382931c75a.zip/node_modules/@babel/plugin-transform-block-scoping/",\
+        "packageDependencies": [\
+          ["@babel/plugin-transform-block-scoping", "npm:7.25.0"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:7.25.0", {\
+        "packageLocation": "./.yarn/__virtual__/@babel-plugin-transform-block-scoping-virtual-35cb4f3cbe/0/cache/@babel-plugin-transform-block-scoping-npm-7.25.0-3cb78e0e8f-382931c75a.zip/node_modules/@babel/plugin-transform-block-scoping/",\
+        "packageDependencies": [\
+          ["@babel/plugin-transform-block-scoping", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:7.25.0"],\
+          ["@babel/core", "npm:7.25.2"],\
+          ["@babel/helper-plugin-utils", "npm:7.24.8"],\
+          ["@types/babel__core", null]\
+        ],\
+        "packagePeers": [\
+          "@babel/core",\
+          "@types/babel__core"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@babel/plugin-transform-strict-mode", [\
+      ["npm:7.24.7", {\
+        "packageLocation": "./.yarn/cache/@babel-plugin-transform-strict-mode-npm-7.24.7-c9e1e63458-8414b77b2f.zip/node_modules/@babel/plugin-transform-strict-mode/",\
+        "packageDependencies": [\
+          ["@babel/plugin-transform-strict-mode", "npm:7.24.7"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:7.24.7", {\
+        "packageLocation": "./.yarn/__virtual__/@babel-plugin-transform-strict-mode-virtual-6b3beb8a9f/0/cache/@babel-plugin-transform-strict-mode-npm-7.24.7-c9e1e63458-8414b77b2f.zip/node_modules/@babel/plugin-transform-strict-mode/",\
+        "packageDependencies": [\
+          ["@babel/plugin-transform-strict-mode", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:7.24.7"],\
+          ["@babel/core", "npm:7.25.2"],\
+          ["@babel/helper-plugin-utils", "npm:7.24.8"],\
+          ["@types/babel__core", null]\
+        ],\
+        "packagePeers": [\
+          "@babel/core",\
+          "@types/babel__core"\
         ],\
         "linkType": "HARD"\
       }]\
@@ -789,6 +870,9 @@ const RAW_RUNTIME_STATE =
           ["Frontend-Development-Environment", "workspace:."],\
           ["@babel/cli", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:7.24.8"],\
           ["@babel/core", "npm:7.25.2"],\
+          ["@babel/plugin-transform-arrow-functions", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:7.24.7"],\
+          ["@babel/plugin-transform-block-scoping", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:7.25.0"],\
+          ["@babel/plugin-transform-strict-mode", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:7.24.7"],\
           ["clean-webpack-plugin", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:4.0.0"],\
           ["css-loader", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:6.11.0"],\
           ["file-loader", "virtual:3db05c93418cb82779878cf2088a281dea644a04d42512d00a2412089a6fd8b9a712bf1d32392ad9a6e5de37adfca4f99c14e1ca217fc3a0deb2e5c7f7efee19#npm:6.2.0"],\

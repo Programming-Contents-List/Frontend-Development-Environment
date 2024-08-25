@@ -1,3 +1,4 @@
+const myBabelPreset = require('./my-babel-preset');
 module.exports = {
-  plugins: ["./src/my-babel-plugin.js"]
+  presets: [myBabelPreset]
 };
